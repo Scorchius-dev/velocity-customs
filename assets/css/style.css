@@ -1,0 +1,40 @@
+/* Custom Fonts from Google */
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;700&family=Roboto:wght@300;400;700&display=swap');
+
+/* Force Black Background for the whole page */
+body {
+    background-color: #000 !important;
+    color: #e0e0e0;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Apply Rajdhani font to all headings and navbar */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar-brand {
+    font-family: 'Rajdhani', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Smooth Scrolling when clicking links */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Social Icon Hover Effect */
+.social-link {
+    transition: color 0.3s;
+}
+
+.social-link:hover {
+    color: #FFD700 !important;
+}
+
+nav {
+    position: absolute;
+}
