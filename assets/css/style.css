@@ -19,6 +19,7 @@ h6,
     font-family: 'Rajdhani', sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
+    font-display: swap;
 }
 
 /* Smooth Scrolling when clicking links */
