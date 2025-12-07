@@ -77,7 +77,7 @@ It showcases pre-configured builds, explains the company’s quality standard, a
 ### 📺 Desktop Views
 
 **Home – Desktop**  
-`![Home Desktop](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/hpdesktop.png?raw=true)`
+![Home Desktop](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/hpdesktop.png?raw=true)`
 
 **Builds – Desktop**  
 `![Builds Desktop]()`
@@ -185,6 +185,7 @@ All final decisions, designs, and code were implemented by the project author.
 ---
 
 Thanks for reviewing **Velocity Customs**!
+
 
 
 
