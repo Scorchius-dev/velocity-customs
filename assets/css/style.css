@@ -35,6 +35,9 @@ html {
     color: #FFD700 !important;
 }
 
-nav {
-    position: absolute;
+#hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/hero-bg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
