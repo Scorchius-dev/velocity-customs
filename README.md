@@ -80,36 +80,57 @@ It showcases pre-configured builds, explains the company’s quality standard, a
 ![Home Desktop](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/hpdesktop.png?raw=true)`
 
 **Builds – Desktop**  
-`![Builds Desktop]()`
+![Builds Desktop](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/ppdesktop.png?raw=true)`
 
 **Contact – Desktop**  
-`![Contact Desktop]()`
+![Contact Desktop](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/cpdesktop.png?raw=true)`
 
 ---
 
 ### 📱 Mobile Views
 
 **Home – Mobile**  
-`![Home Mobile]()`
+![Home Mobile](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/hpmobile.png?raw=true)`
 
 **Builds – Mobile**  
-`![Builds Mobile]()`
+![Builds Mobile](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/ppmobile.png?raw=true)`
 
 **Contact – Mobile**  
-`![Contact Mobile]()`
+![Contact Mobile](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/cpmobile.png?raw=true)`
 
 ---
 
 ### ✅ Testing Screenshots
 
-**HTML Validation**  
-`![HTML Validation]()`
+## HTML Validation
 
-**CSS Validation**  
-`![CSS Validation]()`
+### index.html
+![index.html Validation](screenshots/hpvalidation.png)
 
-**Lighthouse Report**  
-`![Lighthouse Report]()`
+### products.html
+![products.html Validation](screenshots/ppvalidation.png)
+
+### contact.html
+![contact.html Validation](screenshots/cpvalidation.png)
+
+---
+
+## CSS Validation
+![CSS Validation](screenshots/cssvalidation.png)
+
+---
+
+## Lighthouse Results
+
+### index.html (Desktop)
+![Lighthouse Index](screenshots/hplhtest.png)
+
+### products.html (Desktop)
+![Lighthouse Products](screenshots/pplhtest.png)
+
+### contact.html (Desktop)
+![Lighthouse Contact](screenshots/cplhtest.png)
+
 
 ---
 
@@ -185,6 +206,7 @@ All final decisions, designs, and code were implemented by the project author.
 ---
 
 Thanks for reviewing **Velocity Customs**!
+
 
 
 
