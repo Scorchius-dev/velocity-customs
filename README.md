@@ -178,7 +178,7 @@ While the initial HTML boilerplate was written manually, AI tools played a suppo
 
 ---
 
-## Optional Design Documentation
+## Design Documentation
 
 ## 🎨 Colour Palette
 
@@ -205,6 +205,7 @@ While the initial HTML boilerplate was written manually, AI tools played a suppo
 ---
 
 Thanks for reviewing **Velocity Customs**!
+
 
 
 
