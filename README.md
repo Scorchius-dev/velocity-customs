@@ -77,7 +77,7 @@ It showcases pre-configured builds, explains the company’s quality standard, a
 ### 📺 Desktop Views
 
 **Home – Desktop**  
-`![Home Desktop]()`
+`![Home Desktop](/screenshots/hpdesktop.png)`
 
 **Builds – Desktop**  
 `![Builds Desktop]()`
@@ -185,4 +185,5 @@ All final decisions, designs, and code were implemented by the project author.
 ---
 
 Thanks for reviewing **Velocity Customs**!
+
 
