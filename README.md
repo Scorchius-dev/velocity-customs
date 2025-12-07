@@ -77,26 +77,26 @@ It showcases pre-configured builds, explains the company’s quality standard, a
 ### 📺 Desktop Views
 
 **Home – Desktop**  
-![Home Desktop](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/hpdesktop.png?raw=true)`
+![Home Desktop](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/hpdesktop.png?raw=true)
 
 **Builds – Desktop**  
-![Builds Desktop](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/ppdesktop.png?raw=true)`
+![Builds Desktop](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/ppdesktop.png?raw=true)
 
 **Contact – Desktop**  
-![Contact Desktop](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/cpdesktop.png?raw=true)`
+![Contact Desktop](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/cpdesktop.png?raw=true)
 
 ---
 
 ### 📱 Mobile Views
 
 **Home – Mobile**  
-![Home Mobile](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/hpmobile.png?raw=true)`
+![Home Mobile](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/hpmobile.png?raw=true)
 
 **Builds – Mobile**  
-![Builds Mobile](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/ppmobile.png?raw=true)`
+![Builds Mobile](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/ppmobile.png?raw=true)
 
 **Contact – Mobile**  
-![Contact Mobile](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/cpmobile.png?raw=true)`
+![Contact Mobile](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/cpmobile.png?raw=true)
 
 ---
 
@@ -141,12 +141,12 @@ It showcases pre-configured builds, explains the company’s quality standard, a
 1. Go to your repository settings  
 2. Select **Pages**  
 3. Choose:
-   - Branch: `main`  
-   - Folder: `/root`  
+   - Branch: main 
+   - Folder: /root
 4. Save  
 5. GitHub will deploy the site automatically  
 6. Final URL:  
-   `https://scorchius-dev.github.io/velocity-customs/index.html`
+   https://scorchius-dev.github.io/velocity-customs/index.html
 
 ---
 
@@ -205,6 +205,7 @@ While the initial HTML boilerplate was written manually, AI tools played a suppo
 ---
 
 Thanks for reviewing **Velocity Customs**!
+
 
 
 
