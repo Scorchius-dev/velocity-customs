@@ -1,14 +1,21 @@
+/*
+  File: assets/css/style.css
+  Purpose: Global styling for the site. Sections below cover font imports,
+  base typography and colors, layout utilities, and section-specific rules.
+  Comments describe what each block is used for.
+*/
+
 /* Custom Fonts from Google */
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;700&family=Roboto:wght@300;400;700&display=swap');
 
-/* Force Black Background for the whole page */
+/* Base page styles: background color, default text color, base font */
 body {
     background-color: #000 !important;
     color: #e0e0e0;
     font-family: 'Roboto', sans-serif;
 }
 
-/* Apply Rajdhani font to all headings and navbar */
+/* Headings and navbar brand use the Rajdhani display font for a bold look */
 h1,
 h2,
 h3,
@@ -22,12 +29,12 @@ h6,
     font-display: swap;
 }
 
-/* Smooth Scrolling when clicking links */
+/* Smooth scrolling for anchor navigation */
 html {
     scroll-behavior: smooth;
 }
 
-/* Social Icon Hover Effect */
+/* Social icon hover behavior (used in the footer) */
 .social-link {
     transition: color 0.3s;
 }
@@ -35,7 +42,9 @@ html {
 .social-link:hover {
     color: #FFD700 !important;
 }
-/* Hero section background image */
+
+/* Hero section: background image with dark overlay to improve text contrast.
+   Replace the image path if needed. */
 #hero {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/hero-bg.webp");
     background-repeat: no-repeat;
