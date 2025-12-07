@@ -153,30 +153,32 @@ It showcases pre-configured builds, explains the company’s quality standard, a
 ## 🐛 Bugs / Known Issues
 
 ### Resolved
-- *Add resolved bugs here*
+There were no bugs encountered during development that required resolution.
 
 ### Known Issues
-- *Add known issues here*
-
-If none:  
-> No major bugs remain at the time of submission.
-
+There are no known bugs or issues at the time of submission.  
+All tested pages function as intended.
 ---
 
 ## 📚 Attributions
 
-- Images: *Add sources*  
-- Icons: *Add source*  
-- Fonts: *Add provider*  
-- Code references: MDN, W3Schools, etc.  
-- Any tutorials or inspirations: *Add links*
+- Images: https://www.reddit.com/r/pcmasterrace/comments/1di73ca/any_love_for_black_and_yellow_builds/ 
+- Icons: https://www.flaticon.com/free-icons/thunder  
+- Fonts: Google fonts Rajdhani & sans-serif
+- Bootstrap was used for responsive grid layout and UI components. 
+  Documentation reference: https://getbootstrap.com/
+  
+
 
 ---
 
 ## 🤖 AI Use Declaration
 
-Portions of this project — including documentation structure and wording — were assisted by ChatGPT.  
-All final decisions, designs, and code were implemented by the project author.
+Portions of this project were created with assistance from AI tools.
+Google Gemini was used for code generation, troubleshooting, and providing example solutions during development.
+ChatGPT was used for refining written content, structuring documentation, and offering general development guidance.
+
+All final decisions, implementation details, and code integration were performed by the project author.
 
 ---
 
@@ -189,23 +191,23 @@ All final decisions, designs, and code were implemented by the project author.
 
 ## 📝 Wireframes
 
-`![Home Wireframe]()`  
-`![Builds Wireframe]()`  
-`![Contact Wireframe]()`  
+![Home Wireframe](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/hpwireframe.png?raw=true) 
+![Builds Wireframe](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/ppwireframe.png?raw=true)  
+![Contact Wireframe](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/cpwireframe.png?raw=true) 
 
 ---
 
 ## 🔮 Planned Future Updates
 
 - Interactive build configurator  
-- Backend integration for contact form  
-- Dark mode  
+- Backend integration for contact form 
 - Testimonials section  
 - FAQ page  
 
 ---
 
 Thanks for reviewing **Velocity Customs**!
+
 
 
 
