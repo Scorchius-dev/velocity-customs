@@ -105,31 +105,31 @@ It showcases pre-configured builds, explains the company’s quality standard, a
 ## HTML Validation
 
 ### index.html
-![index.html Validation](screenshots/hpvalidation.png)
+![index.html Validation](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/hpvalidation.png?raw=true)
 
 ### products.html
-![products.html Validation](screenshots/ppvalidation.png)
+![products.html Validation](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/ppvalidation.png?raw=true)
 
 ### contact.html
-![contact.html Validation](screenshots/cpvalidation.png)
+![contact.html Validation](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/cpvalidation.png?raw=true)
 
 ---
 
 ## CSS Validation
-![CSS Validation](screenshots/cssvalidation.png)
+![CSS Validation](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/cssvalidation.png?raw=true)
 
 ---
 
 ## Lighthouse Results
 
 ### index.html (Desktop)
-![Lighthouse Index](screenshots/hplhtest.png)
+![Lighthouse Index](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/hplhtest.png?raw=true)
 
 ### products.html (Desktop)
-![Lighthouse Products](screenshots/pplhtest.png)
+![Lighthouse Products](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/pplhtest.png?raw=true)
 
 ### contact.html (Desktop)
-![Lighthouse Contact](screenshots/cplhtest.png)
+![Lighthouse Contact](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/cplhtest.png?raw=true)
 
 
 ---
@@ -206,6 +206,7 @@ All final decisions, designs, and code were implemented by the project author.
 ---
 
 Thanks for reviewing **Velocity Customs**!
+
 
 
 
