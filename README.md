@@ -174,11 +174,7 @@ All tested pages function as intended.
 
 ## 🤖 AI Use Declaration
 
-Portions of this project were created with assistance from AI tools.
-Google Gemini was used for code generation, troubleshooting, and providing example solutions during development.
-ChatGPT was used for refining written content, structuring documentation, and offering general development guidance.
-
-All final decisions, implementation details, and code integration were performed by the project author.
+While the initial HTML boilerplate was written manually, AI tools played a supporting role in generating content, structuring sections, and providing development guidance. Google Gemini was used for code suggestions and troubleshooting, and ChatGPT assisted with written content refinement and documentation. AI helped streamline the workflow and allowed more focus on design and user experience. All final code implementation and project decisions were made by the project author.
 
 ---
 
@@ -207,6 +203,7 @@ All final decisions, implementation details, and code integration were performed
 ---
 
 Thanks for reviewing **Velocity Customs**!
+
 
 
 
