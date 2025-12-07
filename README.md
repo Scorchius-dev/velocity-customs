@@ -6,22 +6,22 @@
 
 ## 📚 Table of Contents
 
-1. [Project Overview](#-project-overview)  
-2. [Site Structure](#-site-structure)  
-3. [Features](#-features)  
-4. [User Benefits](#-user-benefits)  
-5. [Screenshots](#-screenshots)  
-   - [Desktop Views](#-desktop-views)  
-   - [Mobile Views](#-mobile-views)  
-   - [Testing Screenshots](#-testing-screenshots)  
-6. [Deployment](#-deployment)  
-7. [Bugs / Known Issues](#-bugs--known-issues)  
-8. [Attributions](#-attributions)  
-9. [AI Use Declaration](#-ai-use-declaration)  
-10. [Design Documentation](#-optional-design-documentation)  
-    - [Colour Palette](#-colour-palette-optional)  
-    - [Wireframes](#-wireframes-optional)  
-11. [Planned Future Updates](#-planned-future-updates-optional)
+1. [Project Overview](#project-overview)  
+2. [Site Structure](#site-structure)  
+3. [Features](#features)  
+4. [User Benefits](#user-benefits)  
+5. [Screenshots](#screenshots)  
+   - [Desktop Views](#desktop-views)  
+   - [Mobile Views](#mobile-views)  
+   - [Testing Screenshots](#testing-screenshots)  
+6. [Deployment](#deployment)  
+7. [Bugs / Known Issues](#-bugs-known-issues)  
+8. [Attributions](#attributions)  
+9. [AI Use Declaration](#ai-use-declaration)  
+10. [Design Documentation](#design-documentation)  
+    - [Colour Palette](#colour-palette)  
+    - [Wireframes](#wireframes)  
+11. [Planned Future Updates](#planned-future-updates)
 
 ---
 
@@ -205,6 +205,7 @@ While the initial HTML boilerplate was written manually, AI tools played a suppo
 ---
 
 Thanks for reviewing **Velocity Customs**!
+
 
 
 
