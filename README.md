@@ -178,6 +178,8 @@ While the initial HTML boilerplate was written manually, AI tools played a suppo
 
 ---
 
+## Optional Design Documentation
+
 ## 🎨 Colour Palette
 
 ![Colour Palette](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/Colourpalette.png?raw=true)  
@@ -203,6 +205,7 @@ While the initial HTML boilerplate was written manually, AI tools played a suppo
 ---
 
 Thanks for reviewing **Velocity Customs**!
+
 
 
 
