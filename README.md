@@ -180,14 +180,14 @@ All final decisions, designs, and code were implemented by the project author.
 
 ---
 
-## 🎨 Colour Palette (Optional)
+## 🎨 Colour Palette
 
-`![Colour Palette]()`  
-*Add hex codes if needed.*
+![Colour Palette](https://github.com/Scorchius-dev/velocity-customs/blob/main/assets/screenshots/Colourpalette.png?raw=true)  
+
 
 ---
 
-## 📝 Wireframes (Optional)
+## 📝 Wireframes
 
 `![Home Wireframe]()`  
 `![Builds Wireframe]()`  
@@ -195,7 +195,7 @@ All final decisions, designs, and code were implemented by the project author.
 
 ---
 
-## 🔮 Planned Future Updates (Optional)
+## 🔮 Planned Future Updates
 
 - Interactive build configurator  
 - Backend integration for contact form  
@@ -206,6 +206,7 @@ All final decisions, designs, and code were implemented by the project author.
 ---
 
 Thanks for reviewing **Velocity Customs**!
+
 
 
 
